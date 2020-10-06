@@ -10,6 +10,8 @@
 - https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d?gi=f6bd5fa0da47
 - https://laasyasettyblog.hashnode.dev/explain-to-me-like-i-am-five-time-complexity
 - https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/#:~:text=To%20understand%20what%20Big%20O,respect%20to%20the%20input%20size.
+- https://www.youtube.com/watch?v=2w-CgyIrjUs
+- https://www.youtube.com/watch?v=zOjov-2OZ0E
 
 #### Software architecture
 
