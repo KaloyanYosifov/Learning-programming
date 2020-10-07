@@ -8,6 +8,7 @@
 #### Videos
 
 - https://www.youtube.com/watch?v=vjtywpx2SDY -- learning the bare metal parts of computer
+- [Networks](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z)
 
 #### Computer science
 
