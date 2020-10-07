@@ -4,7 +4,7 @@
 
 - https://www.youtube.com/watch?v=vjtywpx2SDY -- learning the bare metal parts of computer
 
-#### Degree style learning for algorithms and such
+#### Computer science
 
 - https://github.com/jwasham/coding-interview-university
 - https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d?gi=f6bd5fa0da47
@@ -13,6 +13,8 @@
 - https://www.youtube.com/watch?v=2w-CgyIrjUs
 - https://www.youtube.com/watch?v=zOjov-2OZ0E
 - https://www.youtube.com/watch?v=k6U-i4gXkLM - MIT lec
+- [Four Semesters of Computer Science in 5 Hours, Part 1](https://frontendmasters.com/courses/computer-science/)
+- [Four Semesters of Computer Science in 5 Hours, Part 2](https://frontendmasters.com/courses/computer-science-2/)
 
 #### Software architecture
 
