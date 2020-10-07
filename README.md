@@ -17,6 +17,7 @@
 - https://www.youtube.com/watch?v=2w-CgyIrjUs
 - https://www.youtube.com/watch?v=zOjov-2OZ0E
 - https://www.youtube.com/watch?v=k6U-i4gXkLM - MIT lec
+- https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter - Full lectures
 - [Four Semesters of Computer Science in 5 Hours, Part 1](https://frontendmasters.com/courses/computer-science/)
 - [Four Semesters of Computer Science in 5 Hours, Part 2](https://frontendmasters.com/courses/computer-science-2/)
 
