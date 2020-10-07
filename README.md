@@ -1,5 +1,9 @@
 ## Here i put useful resources i find in my journey in learning Programming.
 
+#### General
+
+- https://ocw.mit.edu/
+
 #### Videos
 
 - https://www.youtube.com/watch?v=vjtywpx2SDY -- learning the bare metal parts of computer
