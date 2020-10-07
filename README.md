@@ -3,6 +3,7 @@
 #### General
 
 - https://ocw.mit.edu/
+- https://teachyourselfcs.com/#programming
 
 #### Videos
 
