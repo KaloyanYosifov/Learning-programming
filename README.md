@@ -12,6 +12,7 @@
 
 #### Computer science
 
+- [Assembly](https://tldp.org/HOWTO/Assembly-HOWTO/)
 - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - https://github.com/ossu/computer-science
 - https://github.com/jwasham/coding-interview-university
