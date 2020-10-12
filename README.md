@@ -41,3 +41,4 @@
 - https://medium.com/insiderengineering/how-we-moved-from-ruby-to-go-and-decrease-our-cost-by-1400-and-increased-response-time-by-500-874b7c34c7f7
 - https://blog.yuvv.xyz/what-happens-when-you-run-a-computer-program
 - https://www.afternerd.com/blog/learn-computer-science/
+- https://medium.com/@seandlg/what-nand2tetris-has-taught-me-about-computers-and-more-importantly-about-learning-aebc84af3030
