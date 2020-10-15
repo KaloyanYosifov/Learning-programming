@@ -14,6 +14,7 @@
 #### Computer science
 
 - [Assembly](https://tldp.org/HOWTO/Assembly-HOWTO/)
+- https://www.youtube.com/watch?v=RhS-AL2ZcyE
 - [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - https://github.com/ossu/computer-science
 - https://github.com/jwasham/coding-interview-university
@@ -42,3 +43,4 @@
 - https://blog.yuvv.xyz/what-happens-when-you-run-a-computer-program
 - https://www.afternerd.com/blog/learn-computer-science/
 - https://medium.com/@seandlg/what-nand2tetris-has-taught-me-about-computers-and-more-importantly-about-learning-aebc84af3030
+- https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234
