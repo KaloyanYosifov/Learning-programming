@@ -28,6 +28,7 @@
 - [Mit lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
 - [Four Semesters of Computer Science in 5 Hours, Part 1](https://frontendmasters.com/courses/computer-science/)
 - [Four Semesters of Computer Science in 5 Hours, Part 2](https://frontendmasters.com/courses/computer-science-2/)
+- [Harvard Advanced Algorithms](https://www.youtube.com/watch?v=0JUN9aDxVmI)
 
 #### Software architecture
 
