@@ -47,3 +47,4 @@
 - https://codeburst.io/50-quotes-for-better-coding-76bdac3fc234
 - https://medium.com/better-programming/5-basic-sorting-algorithms-you-must-know-9ef5b1f3949c
 - https://bharatv.hashnode.dev/the-clean-code-talks-dont-look-for-things-ckhrpu2sk0558s6s17herdj75
+- https://dev.to/simonholdorf/10-must-read-books-for-software-engineers-13d0
