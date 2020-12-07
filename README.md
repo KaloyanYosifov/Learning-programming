@@ -49,3 +49,6 @@
 - https://bharatv.hashnode.dev/the-clean-code-talks-dont-look-for-things-ckhrpu2sk0558s6s17herdj75
 - https://dev.to/simonholdorf/10-must-read-books-for-software-engineers-13d0
 - https://www.freecodecamp.org/news/most-popular-free-online-courses/
+
+#### Courses
+- https://www.coursera.org/learn/advanced-modeling#instructors
