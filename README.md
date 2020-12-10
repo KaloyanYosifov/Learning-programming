@@ -52,3 +52,4 @@
 
 #### Courses
 - https://www.coursera.org/learn/advanced-modeling#instructors
+- https://www.edx.org/course/cs50s-introduction-to-computer-science
